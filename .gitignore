@@ -1,1 +1,5 @@
 .DS_Store
+.vscode
+nixtee_client/dist
+nixtee_client/build
+nixtee_client/nixtee_client.egg-info
